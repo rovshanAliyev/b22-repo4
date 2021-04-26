@@ -1,0 +1,3 @@
+I just created Empty Remote repo from GitHub.com
+
+and clones this repo by clicking on Set up in Desktop click on clone
